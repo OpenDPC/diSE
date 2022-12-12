@@ -1,1 +1,2 @@
-# SearchableEncryption
+# seLib
+seLib is a Searchable Encryption algorithm library based on the GM encryption algorithm, including SSE, PKSE, KP-ABE, CP-ABE ...
